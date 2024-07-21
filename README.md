@@ -34,7 +34,7 @@ This repository contains a collection of utility Python scripts designed to assi
 2. Install required libraries
 
    ```bash
-   pip install pymsql
+   pip install pymysql
    
 3. Replace database names and credentials on each file you wanted to run. 
   
