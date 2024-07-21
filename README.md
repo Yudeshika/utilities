@@ -38,6 +38,6 @@ This repository contains a collection of utility Python scripts designed to assi
    
 3. Replace database names and credentials on each file you wanted to run. 
   
-  ```bash
-  python3 database/compare_two_databases.py
+    ```bash
+    python3 database/compare_two_databases.py
 
